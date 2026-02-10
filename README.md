@@ -11,9 +11,9 @@ https://bajaj-assinment-sycc.vercel.app
 
 ### 🔗 Live Endpoints
 - **Health Check (GET):**  
-  https://bajaj-assinment-sycc.vercel.app/api/health
+  https://bajaj-assinment-sycc.vercel.app/health
 - **BFHL (POST):**  
-  https://bajaj-assinment-sycc.vercel.app/api/bfhl
+  https://bajaj-assinment-sycc.vercel.app/bfhl
 
 ---
 
